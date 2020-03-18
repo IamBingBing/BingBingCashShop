@@ -1,0 +1,9 @@
+name: BingBingCashShop
+author: "bingbing"
+version: "1.0.0_BETA"
+api: [1.0.0, 2.0.0, 3.0.0, 3.0.1]
+main: bingbing\BingBingCashShop
+
+commands:
+ 캐쉬상점:
+  default: true
